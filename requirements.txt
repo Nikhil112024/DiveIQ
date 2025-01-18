@@ -1,0 +1,8 @@
+Python 3.7
+MediaPipe: 0.10.0
+OpenCV: 4.5.5.64 
+NumPy: 1.21.6
+
+
+
+pip install mediapipe opencv-python numpy
