@@ -43,6 +43,8 @@ This project is licensed under the MIT License.
 
 Work in Progress..
 
+DONT HAVE EQUIPMENTS
+
 ---
 
 ### Author
